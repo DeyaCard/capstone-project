@@ -1,4 +1,4 @@
-# Epicodus Capstone Project - "Deya's Space - A Portfolio"
+# Epicodus Capstone Project - "Deya's Space - A Digital Portfolio"
 
 ## By Deya Card
 
@@ -9,10 +9,8 @@ This application will serve as my professional portfolio, displaying my work and
 
 ## Technologies used:
 * React
-* CSS
-* JavaScript
-* HTML
-* NPM
+* VS Code
+* 
 
 
 
@@ -26,8 +24,12 @@ This application will serve as my professional portfolio, displaying my work and
 
 
 ## Research and Planning Log:
-* Saturday, August 27th: create project repo, README and capstone-project.md.
-*
+# Saturday, August 27th: 
+* 6:30pm: create project repo, README and capstone-project.md.
+* 7:00pm: Fill out templates in README and capstone-project
+* 7:30pm: Research MySpace 
+* 8:00pm: Research SpaceHey
+
 
 ## Known Bugs:
 * No known bugs at this time

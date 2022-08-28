@@ -1,4 +1,5 @@
-# Epicodus Capstone Project - "Deya's Space - A Digital Portfolio"
+# Epicodus Capstone Project:
+# "Deya's Space - A Digital Portfolio"
 
 ## By Deya Card
 
@@ -13,8 +14,7 @@ This application will serve as my professional portfolio, displaying my work and
 * 
 
 
-
-## Setup/Instalation:
+## Setup/Installation:
 * Go to [https://github.com/DeyaCard/capstone-project.git]
 * Clone this repository to your local machine by running the following command $ git clone https://github.com/DeyaCard/capstone-project.git
 * Navigate to root folder and open directory in your terminal
@@ -24,11 +24,13 @@ This application will serve as my professional portfolio, displaying my work and
 
 
 ## Research and Planning Log:
-# Saturday, August 27th: 
+### Saturday, August 27th: 
 * 6:30pm: create project repo, README and capstone-project.md.
-* 7:00pm: Fill out templates in README and capstone-project
-* 7:30pm: Research MySpace 
-* 8:00pm: Research SpaceHey
+* 7:00pm: Begin filling out templates in README.md and capstone-project.md.
+* 7:30pm: Research MySpace - how it was built, which languages, framework, etc. Study styling.
+* 8:00pm: Research SpaceHey - how it was built, which languages, framework, etc. Study styling.
+* 8:30pm: Look into TypeScript - is this something that I should learn for this project?
+
 
 
 ## Known Bugs:

@@ -19,6 +19,6 @@
 
 ### Saturday, September 10th:
 * 10:00am: Researched React portfolios
-
-
-#### Total time: 
+* 12:00pm: Research Tailwind, watch videos
+* 12:30pm: Project planning - considering MVP in JS, HTML, CSS - Stretch goals = React components (animation)?
+#### Total time: 3 hours

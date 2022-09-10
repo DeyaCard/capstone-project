@@ -9,4 +9,16 @@
 * 9:00pm: Homework - Study Firebase, possible technology for this project.
 * 10:00pm: Watch YouTube videos - 
 * 10:30pm: Final edit and update of README.md capstone-project.md.
-### Total time: 4.5 hours
+#### Total time: 4.5 hours
+
+
+### Wednesday, September 7th:
+* 2:00pm: Meeting with Instructor Ryan to discuss capstone project.
+#### Total time: 1 hour
+
+
+### Saturday, September 10th:
+* 10:00am: Researched React portfolios
+
+
+#### Total time: 

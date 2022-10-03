@@ -1,4 +1,5 @@
 ## Research and Planning Log:
+#### Grand Total Time: 36
 
 ### Saturday, August 27th: 
 * 6:30pm: create project repo, README and capstone-project.md.
@@ -9,7 +10,7 @@
 * 9:00pm: Homework - Study Firebase, possible technology for this project.
 * 10:00pm: Watch YouTube videos - 
 * 10:30pm: Final edit and update of README.md capstone-project.md.
-#### Total time: 4.5 hours
+#### Total time: 5 hours
 
 
 ### Wednesday, September 7th:
@@ -22,3 +23,31 @@
 * 12:00pm: Research Tailwind, watch videos
 * 12:30pm: Project planning - considering MVP in JS, HTML, CSS - Stretch goals = React components (animation)?
 #### Total time: 3 hours
+
+
+### Sunday, September 25th:
+* Study MySpace code and begin writing out code and testing it in React
+#### Total time: 8 hours
+
+
+### Monday, September 26th:
+* Continue research and styling
+#### Total time: 3 hours
+
+
+### Tuesday, September 27th:
+* Write code out in react app
+#### Total time: 5 hours
+
+
+### Wednesday, September 28th:
+* Changed mind, decided to ditch react and go back to basic html/css. Began plotting out new project.
+#### Total time: 3 hours
+
+
+### Wednesday, October 2nd:
+* Transfer all react (capstone-portfolio) code to html file project (deyacard-portfolio) 
+* Build out gallery and photo albums css/html
+* Add photos for galleries
+### Total time: 8 hours
+

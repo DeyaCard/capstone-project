@@ -1,5 +1,5 @@
 ## Research and Planning Log:
-#### Grand Total Time: 36
+#### Grand Total Time: 40
 
 ### Saturday, August 27th: 
 * 6:30pm: create project repo, README and capstone-project.md.
@@ -45,9 +45,17 @@
 #### Total time: 3 hours
 
 
-### Wednesday, October 2nd:
+### Sunday, October 2nd:
 * Transfer all react (capstone-portfolio) code to html file project (deyacard-portfolio) 
 * Build out gallery and photo albums css/html
 * Add photos for galleries
-### Total time: 8 hours
+#### Total time: 8 hours
+
+
+### Monday, October 3rd:
+* Continue styling
+* Preparing and uploading photos for galleries
+* Misc tweaking
+#### Total time: 4 hours
+
 

@@ -1,5 +1,5 @@
 ## Research and Planning Log:
-#### Grand Total Time: 40
+#### Grand Total Time: 50 hours
 
 ### Saturday, August 27th: 
 * 6:30pm: create project repo, README and capstone-project.md.
@@ -58,4 +58,15 @@
 * Misc tweaking
 #### Total time: 4 hours
 
+
+### Tuesday, October 4th:
+* Work on README file
+#### Total time: 3 hours
+
+
+### Wednesday, October 5th:
+* Continue styling
+* Researched, tested and implemented a contact form
+* Misc tweaking
+#### Total time: 7 hours
 
